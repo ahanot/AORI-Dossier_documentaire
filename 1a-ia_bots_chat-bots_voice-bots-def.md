@@ -1,6 +1,6 @@
-# 1. IA, Bots, Chat-Bots et Voice-Bots:
+# IA, Bots, Chat-Bots et Voice-Bots:
 
-## A. Définitions
+## Définitions
 
 Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées
 
