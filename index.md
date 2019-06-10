@@ -7,7 +7,8 @@ Ce dossier-ci a pour sujet les Chat-Bots.
 
 <h2>Organisation du dossier:</h2>
 
-<h5>IA, Bots, Chat-Bots et Voice-Bots:</h5> Que sont-ils ? En quoi sont-ils différents ?
+<h5>IA, Bots, Chat-Bots et Voice-Bots:</h5>Que sont-ils ? En quoi sont-ils différents ?
+
 
 a. Définitions
 
@@ -31,4 +32,4 @@ a.	Les Chat-Bots et le(s) public(s) des bibliothèques (avantages/inconvénients
 
 b.	Les Chat-Bots et les bibliothécaires
 
-Description sur comment utiliser ce dossier documentaire au mieux: ...
+<h5>Comment utiliser ce dossier documentaire au mieux:</h5>
