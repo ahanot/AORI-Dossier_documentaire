@@ -3,7 +3,7 @@
 
 Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées
 
-### Première référenceACCART, Jean-Philippe. La médiation à l’heure du numérique. Paris : Editions du Cercle de la librairie, 2016. Bibliothèques. ISBN 978-2-7654-1505-3. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=notice_display&id=21752
+### ACCART, Jean-Philippe. La médiation à l’heure du numérique. Paris : Editions du Cercle de la librairie, 2016. Bibliothèques. ISBN 978-2-7654-1505-3. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=notice_display&id=21752
 
 Image pdf ou lien
 
