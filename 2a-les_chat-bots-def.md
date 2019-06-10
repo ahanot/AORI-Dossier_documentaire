@@ -1,6 +1,6 @@
-# 2. Les Chat-Bots:
+# Les Chat-Bots:
 
-## A.Définitions
+## Définitions
 
 Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées
 
