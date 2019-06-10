@@ -10,7 +10,7 @@ Image pdf ou lien
 
 ### JURCZYK, Luiza. Build Your First Chatbot [en ligne]. février 2019. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.chatbot.com/help/build-your-chatbot/how-to-build-your-chatbot
 
-Image pdf ou lien
+Lien dans la référence
 
 ### NAIR, Sanjay. How to Make a Q&A Chatbot With Machine Learning. Dans : Medium [en ligne]. 13 juillet 2018. [Consulté le 15 mai 2019]. Disponible à l’adresse : https://medium.com/coinmonks/how-to-make-a-q-a-chatbot-with-machine-learning-1c90207bde7b
 
