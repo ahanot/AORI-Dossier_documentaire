@@ -1,4 +1,16 @@
-<h1>Les Chats-Bots</h1>
+# Les Chat-Bots:
 
-<h3>D. Utilités et Emplois</h3>
+## Utilités et Emplois
+
+Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées
+
+### Première référence
+
+Image pdf ou lien
+
+### Présentation d'un autre document
+
+
+### Etc.
+
 
