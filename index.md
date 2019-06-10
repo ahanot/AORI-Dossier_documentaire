@@ -9,23 +9,23 @@ Ce dossier-ci a pour sujet les <strong><em>Chat-Bots</em></strong>.
 
 <h5>1. IA, Bots, Chat-Bots et Voice-Bots:</h5> <em>Que sont-ils ? En quoi sont-ils différents ?</em>
 <br>
-a. <a href="https://ahanot.github.io/AORI-Dossier_documentaire/1a-ia_bots_chat-bots_voice-bots-def.md">Définitions</a>
+a. <a href="https://ahanot.github.io/AORI-Dossier_documentaire/aa-ia_bots_chat-bots_voice-bots-def.md">Définitions</a>
 
-b. <a href="https://ahanot.github.io/AORI-Dossier_documentaire/1b-ia_bots_chat-bots_voice-bots-exemples.md">Exemples</a>
+b. <a href="https://ahanot.github.io/AORI-Dossier_documentaire/ab-ia_bots_chat-bots_voice-bots-exemples.md">Exemples</a>
 
 <h5>2. Les Chat-Bots</h5>
 
-a.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/2a-les_chat-bots-def.md">Définitions</a>
+a.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/ba-les_chat-bots-def.md">Définitions</a>
 
-b.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/2b-les_chat-bots-comment_ça_fonctionne?.md">Comment cela fonctionne-t-il?</a>
+b.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/bb-les_chat-bots-comment_ça_fonctionne?.md">Comment cela fonctionne-t-il?</a>
 
-c.  <a href="https://ahanot.github.io/AORI-Dossier_documentaire/2c-les_chat-bots-comment_creer_chat-bots?.md">Comment mettre au point un Chat-Bot?</a>
+c.  <a href="https://ahanot.github.io/AORI-Dossier_documentaire/bc-les_chat-bots-comment_creer_chat-bots?.md">Comment mettre au point un Chat-Bot?</a>
 
-d.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/2d-les_chat-bots-uti_emplois.md">Utilités et emplois</a>
+d.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/bd-les_chat-bots-uti_emplois.md">Utilités et emplois</a>
 
-e.  <a href="https://ahanot.github.io/AORI-Dossier_documentaire/2e-les_chat-bots-quel_employer?.md">Quel(s) Chat-Bot(s) employer?</a>
+e.  <a href="https://ahanot.github.io/AORI-Dossier_documentaire/be-les_chat-bots-quel_employer?.md">Quel(s) Chat-Bot(s) employer?</a>
 
-<h5>3.<a href="https://ahanot.github.io/AORI-Dossier_documentaire/3-chat-bots_en_biblio.md"> Les Chat-Bots en bibliothèques</a></h5>
+<h5>3.<a href="https://ahanot.github.io/AORI-Dossier_documentaire/c-chat-bots_en_biblio.md"> Les Chat-Bots en bibliothèques</a></h5>
 
 
 <h3>Comment utiliser ce dossier documentaire au mieux:</h3>
