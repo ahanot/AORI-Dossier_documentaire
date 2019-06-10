@@ -6,7 +6,7 @@ Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, 
 
 ###  CANEVET, Frederic. La définition du Voicebot. Dans : ConseilsMarketing.com [en ligne]. 4 mai 2019. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.conseilsmarketing.com/autres-conseils-marketing/la-definition-du-voicebot
 
-Image pdf ou lien
+Lien dans la référence
 
 ### CHAFII, Jamila. Le machine learning au service de l’intelligence artificielle. Dans : Archimag [en ligne]. 28 septembre 2017. [Consulté le 15 mai 2019]. Disponible à l’adresse : https://www.archimag.com/vie-numerique/2017/09/28/machine-learning-intelligence-artificielle-technologie
 
@@ -18,7 +18,7 @@ Image pdf ou lien
 
 ### LE VEN, Éric. Ce qu’il faut attendre de l’intelligence artificielle : l’humain sera-t-il bientôt obsolète pour certains métiers ? Dans : Archimag [en ligne]. 15 mai 2018. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.archimag.com/univers-data/2018/05/15/attendre-intelligence-artificielle-humain-obsolete-metiers
 
-Image pdf ou lien
+Lien dans la référence
 
 ### TEXIER, Bruno. Jean-Marc Ogier: « De larges perspectives pour les entreprises ». Archimag: les technologies de l’information. Avril 2016, no 293, p. 19‑20
 
