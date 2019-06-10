@@ -11,7 +11,7 @@ Ce dossier-ci a pour sujet les <strong><em>Chat-Bots</em></strong>.
 <br>
 a. <a href="https://ahanot.github.io/AORI-Dossier_documentaire/aa-ia_bots_chat-bots_voice-bots-def.md">Définitions</a>
 
-b. <a href="https://ahanot.github.io/AORI-Dossier_documentaire/ab-ia_bots_chat-bots_voice-bots-exemples.md">Exemples</a>
+b. <a href="https://ahanot.github.io/AORI-Dossier_documentaire/ab-ia_bots_chat-bots_voice-bots-plus_loin.md">Pour aller plus loin</a>
 
 <h5>2. Les Chat-Bots</h5>
 
