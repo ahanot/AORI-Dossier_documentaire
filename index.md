@@ -15,20 +15,20 @@ b. <a href="https://ahanot.github.io/AORI-Dossier_documentaire/1b-ia_bots_chat-b
 
 <h5>Les Chat-Bots</h5>
 
-a.	Définitions
+a.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/2a-les_chat-bots-def.md">Définitions</a>
 
-b.	Comment cela fonctionne-t-il?
+b.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/2b-les_chat-bots-comment_ça_fonctionne?.md">Comment cela fonctionne-t-il?</a>
 
-c.  Comment mettre au point un Chat-Bot?
+c.  <a href="https://ahanot.github.io/AORI-Dossier_documentaire/2c-les_chat-bots-comment_creer_chat-bots?.md">Comment mettre au point un Chat-Bot?</a>
 
-d.	Utilités et emplois
+d.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/2d-les_chat-bots-uti_emplois.md">Utilités et emplois</a>
 
-e.  Quel(s) Chat-Bot(s) employer?
+e.  <a href="https://ahanot.github.io/AORI-Dossier_documentaire/2e-les_chat-bots-quel_employer?.md">Quel(s) Chat-Bot(s) employer?</a>
 
 <h5>Les Chat-Bots en bibliothèques</h5>
 
-a.	Les Chat-Bots et le(s) public(s) des bibliothèques (avantages/inconvénients/exemples déjà mis en place)
+a.	 <a href="https://ahanot.github.io/AORI-Dossier_documentaire/1a-ia_bots_chat-bots_voice-bots-def.md">Les Chat-Bots et le(s) public(s) des bibliothèques (avantages/inconvénients/exemples déjà mis en place)</a>
 
-b.	Les Chat-Bots et les bibliothécaires
+b.	 <a href="https://ahanot.github.io/AORI-Dossier_documentaire/1a-ia_bots_chat-bots_voice-bots-def.md">Les Chat-Bots et les bibliothécaires</a>
 
 <h3>Comment utiliser ce dossier documentaire au mieux:</h3>
