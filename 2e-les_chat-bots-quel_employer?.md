@@ -1,5 +1,15 @@
-<h1>Les Chats-Bots</h1>
+# Les Chat-Bots:
 
-<h3>E. Quel(s) Chat-Bot(s) employer?</h3>
+## Quel(s) Chat-Bot(s) employer?
 
+Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées
+
+### Première référence
+
+Image pdf ou lien
+
+### Présentation d'un autre document
+
+
+### Etc.
 
