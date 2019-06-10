@@ -1,4 +1,15 @@
-<h1>Les Chats-Bots</h1>
+# Les Chat-Bots:
 
-<h3>B. Comment cela fonctionne-t-il?</h3>
+## Comment cela fonctionne-t-il?
+
+Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées
+
+### Première référence
+
+Image pdf ou lien
+
+### Présentation d'un autre document
+
+
+### Etc.
 
