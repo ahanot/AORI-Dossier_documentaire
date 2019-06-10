@@ -1,3 +1,15 @@
-<h1>IA, Bots, Chat-Bots et Voice-Bots</h1>
+# IA, Bots, Chat-Bots et Voice-Bots:
 
-<h2> Exemples </h2>
+## B. Exemples
+
+Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées
+
+### Première référence
+
+Image pdf ou lien
+
+### Présentation d'un autre document
+
+
+### Etc.
+
