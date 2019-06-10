@@ -1,13 +1,14 @@
 <h1>Welcome</h1>
 
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 Dans le cadre de notre projet de fin de première année du cours d'Architecture des Ordinateurs et des Réseaux Informatiques dans notre formation de Bibliothécaire-Documentaliste à l'IESSID, il nous a été demandé de réaliser un dossier documentaire sur une technologie de notre choix à l'aide de GitHub Pages.
 
 Ce dossier-ci a pour sujet les Chat-Bots.
 
-<h2>Organisation du dossier:</h2>
+<h3>Organisation du dossier:</h3>
 
-<h5>IA, Bots, Chat-Bots et Voice-Bots:</h5>Que sont-ils ? En quoi sont-ils différents ?<br>
+<h5>IA, Bots, Chat-Bots et Voice-Bots:</h5> <em>Que sont-ils ? En quoi sont-ils différents ?</em>
+<br>
 a. Définitions
 
 b. Exemples
@@ -30,4 +31,4 @@ a.	Les Chat-Bots et le(s) public(s) des bibliothèques (avantages/inconvénients
 
 b.	Les Chat-Bots et les bibliothécaires
 
-<h2>Comment utiliser ce dossier documentaire au mieux:</h2>
+<h3>Comment utiliser ce dossier documentaire au mieux:</h3>
