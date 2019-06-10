@@ -5,7 +5,7 @@ Dans le cadre de notre projet de fin de première année du cours d'Architecture
 
 Ce dossier-ci a pour sujet les <strong><em>Chat-Bots</em></strong>.
 
-<h3>Organisation du dossier:</h3>
+<h3>Organisation du dossier et des ressources:</h3>
 
 <h5>IA, Bots, Chat-Bots et Voice-Bots:</h5> <em>Que sont-ils ? En quoi sont-ils différents ?</em>
 <br>
