@@ -17,7 +17,7 @@ b. <a href="https://ahanot.github.io/AORI-Dossier_documentaire/1b-ia_bots_chat-b
 
 a.	Définitions
 
-b.	Comment ça fonctionne ?
+b.	Comment cela fonctionne-t-il?
 
 c.  Comment mettre au point un Chat-Bot?
 
