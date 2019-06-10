@@ -3,7 +3,7 @@
 <h3>Introduction</h3>
 Dans le cadre de notre projet de fin de première année du cours d'Architecture des Ordinateurs et des Réseaux Informatiques dans notre formation de Bibliothécaire-Documentaliste à l'IESSID, il nous a été demandé de réaliser un dossier documentaire sur une technologie de notre choix à l'aide de GitHub Pages.
 
-Ce dossier-ci a pour sujet les Chat-Bots.
+Ce dossier-ci a pour sujet les <strong><em>Chat-Bots</em></strong>.
 
 <h3>Organisation du dossier:</h3>
 
@@ -13,7 +13,7 @@ a. Définitions
 
 b. Exemples
 
-<h5>Les Chat-bots</h5>
+<h5>Les Chat-Bots</h5>
 
 a.	Définitions
 
