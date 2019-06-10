@@ -1,11 +1,11 @@
 <h1>Welcome</h1>
 
-##Introduction
+<h2>Introduction</h2>
 Dans le cadre de notre projet de fin de première année du cours d'Architecture des Ordinateurs et des Réseaux Informatiques dans notre formation de Bibliothécaire-Documentaliste à l'IESSID, il nous a été demandé de réaliser un dossier documentaire sur une technologie de notre choix à l'aide de GitHub Pages.
 
 Ce dossier-ci a pour sujet les Chat-Bots.
 
-##Organisation du dossier:
+<h2>Organisation du dossier:</h2>
 
 IA, Bots, Chat-Bots et Voice-Bots: Que sont-ils ? En quoi sont-ils différents ?
 a. Définitions
