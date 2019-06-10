@@ -25,7 +25,7 @@ d.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/2d-les_chat-bots-
 
 e.  <a href="https://ahanot.github.io/AORI-Dossier_documentaire/2e-les_chat-bots-quel_employer?.md">Quel(s) Chat-Bot(s) employer?</a>
 
-<h5><a href="https://ahanot.github.io/AORI-Dossier_documentaire/3-chat-bots_en_biblio.md">3. Les Chat-Bots en bibliothèques</h5></a>
+<h5>3.<a href="https://ahanot.github.io/AORI-Dossier_documentaire/3-chat-bots_en_biblio.md"> Les Chat-Bots en bibliothèques</h5></a>
 
 
 <h3>Comment utiliser ce dossier documentaire au mieux:</h3>
