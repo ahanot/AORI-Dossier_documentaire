@@ -9,7 +9,7 @@ Ce dossier-ci a pour sujet les Chat-Bots.
 
 <h5>IA, Bots, Chat-Bots et Voice-Bots:</h5> Que sont-ils ? En quoi sont-ils différents ?
 
-a. Définitions
+a. Définitions/
 b. Exemples
 
 <h5>Les Chat-bots</h5>/
