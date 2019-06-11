@@ -24,7 +24,7 @@ e.  [Quel(s) Chat-Bot(s) employer?](be-les_chat-bots-quel_employer.md)
 
 ## Comment cela fonctionne-t-il?
 
-<em>Documents et ressources expliquant comment les Chat-Bots fonctionnent.</em>
+<em>Documments et ressources expliquant comment les Chat-Bots fonctionnent.</em>
 
 ### ELUPULA, Vishnu. How do chatbots work? An overview of the architecture of a chatbot. Dans : Big Data Made Simple [en ligne]. 15 mai 2019. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://bigdata-madesimple.com/how-do-chatbots-work-an-overview-of-the-architecture-of-a-chatbot/
 
