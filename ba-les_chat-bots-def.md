@@ -6,7 +6,7 @@ Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, 
 
 ### BATHELOT, Bertrand. Chatbot. Dans : Définitions marketing [en ligne]. 21 mars 2019. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://www.definitions-marketing.com/definition/chatbot/
 
-[BATHELOT, Bertrand. Chatbot](image_folder/ba-les_chat-bots-def/definition-chatbot -marketing.pdf)
+[BATHELOT, Bertrand. Chatbot](image_folder/ba-les_chat-bots-def/definition-chatbot-marketing.pdf)
 
 ### VEN, Eric Le. Chatbot, la nouvelle expérience conversationnelle. Archimag: les technologies de l’information [en ligne]. Avril 2018, no 313, p. p.30-31. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=bulletin_display&id=6454. 
 
