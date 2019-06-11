@@ -28,7 +28,7 @@ e.  [Quel(s) Chat-Bot(s) employer?](be-les_chat-bots-quel_employer.md)
 
 ### ACCART, Jean-Philippe. La médiation à l’heure du numérique. Paris : Editions du Cercle de la librairie, 2016. Bibliothèques. ISBN 978-2-7654-1505-3. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=notice_display&id=21752
 
-A trouver
+Ce n'est pas tant l'utilisation des Chat-Bots qui est mise en avant dans cet ouvrage que la part du numérique et de l'informatique dans les métiers de l'infodoc et dans les bibliothèques.
 
 ### ALLISON, DeeAnn. Chatbots in the library: is it time? Library Hi Tech [en ligne]. Mars 2012, Vol. 30, no 1, p. 95‑107. [Consulté le 28 mai 2019]. DOI 10.1108/07378831211213238
 
@@ -36,7 +36,6 @@ A trouver
 
 ### AMAR, Muriel et MESGUICH, Véronique. Le web 2.0 en bibliothèques. Quels services ? Quels usages ? Paris : Editions du Cercle de la librairie, DL 2009. ISBN 978-2-7654-0976-2. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=notice_display&id=18450
 
-A trouver
 
 ### BRAMMER, Robert et MEHLHORN, Saskia. ASK YOUR FRIENDLY LIBRARY CHATBOT: How to create and build your own law library chatbot for your organization. AALL Spectrum. Juin 2019, Vol. 23, no 5, p. 14‑17
 
@@ -48,7 +47,6 @@ A trouver
 
 ### GAUDIN, Frédérique. Reponseatout.ca : le service québécois de référence virtuelle. Argus: Bibliothèque, technologie(s) et numérique [en ligne]. Printemps 2018, Vol. 46, no 1, p. 43-49 (7 p.). [Consulté le 28 mai 2019]. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=notice_display&id=22616
 
-A trouver
 
 ### HILT, Kailee. What Does the Future Hold for the Law Librarian in the Advent of Artificial Intelligence? Canadian Journal of Information & Library Sciences. Septembre 2017, Vol. 41, no 3, p. 211‑227
 
@@ -64,7 +62,6 @@ A trouver
 
 ### MESGUICH, Véronique. Le chatbot va-t-il ringardiser le site Web ? Dans : Bibliothèques : le Web est à vous. Paris : Editions du Cercle de la librairie, DL 2017, p. 16-17. Bibliothèques. ISBN 978-2-7654-1521-3. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=notice_display&id=21806
 
-A trouver
 
 ### TEXIER, Bruno. Jean-Marc Ogier: « De larges perspectives pour les entreprises ». Archimag: les technologies de l’information. Avril 2016, no 293, p. 19‑20
 
