@@ -29,4 +29,3 @@ e.  <a href="https://ahanot.github.io/AORI-Dossier_documentaire/be-les_chat-bots
 <h5>3.<a href="https://ahanot.github.io/AORI-Dossier_documentaire/c-chat-bots_en_biblio.md"> Les Chat-Bots en bibliothèques</a></h5>
 
 
-<h3>Comment utiliser ce dossier documentaire au mieux:</h3>
