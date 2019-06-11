@@ -12,20 +12,20 @@ Ce dossier-ci a pour sujet les <strong><em>Chat-Bots</em></strong>.
 
 a. [Définitions](aa-ia_bots_chat-bots_voice-bots-def.md)
 
-b. <a href="https://ahanot.github.io/AORI-Dossier_documentaire/ab-ia_bots_chat-bots_voice-bots-plus_loin.md">Pour aller plus loin</a>
+b. [Pour aller plus loin](ab-ia_bots_chat-bots_voice-bots-plus_loin.md)
 
 <h5>2. Les Chat-Bots</h5>
 
-a.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/ba-les_chat-bots-def.md">Définitions</a>
+a.	[Définitions](ba-les_chat-bots-def.md)
 
-b.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/bb-les_chat-bots-comment_ça_fonctionne?.md">Comment cela fonctionne-t-il?</a>
+b.	[Comment cela fonctionne-t-il?](bb-les_chat-bots-comment_ça_fonctionne?.md)
 
-c.  <a href="https://ahanot.github.io/AORI-Dossier_documentaire/bc-les_chat-bots-comment_creer_chat-bots?.md">Comment mettre au point un Chat-Bot?</a>
+c.  [Comment mettre au point un Chat-Bot?](bc-les_chat-bots-comment_creer_chat-bots?.md)
 
-d.	<a href="https://ahanot.github.io/AORI-Dossier_documentaire/bd-les_chat-bots-uti_emplois.md">Utilités et emplois</a>
+d.	[Utilités et emplois](bd-les_chat-bots-uti_emplois.md)
 
-e.  <a href="https://ahanot.github.io/AORI-Dossier_documentaire/be-les_chat-bots-quel_employer?.md">Quel(s) Chat-Bot(s) employer?</a>
+e.  [Quel(s) Chat-Bot(s) employer?](be-les_chat-bots-quel_employer?.md)
 
-<h5>3.<a href="https://ahanot.github.io/AORI-Dossier_documentaire/c-chat-bots_en_biblio.md"> Les Chat-Bots en bibliothèques</a></h5>
+<h5>3.[Les Chat-Bots en bibliothèques](c-chat-bots_en_biblio.md)</h5>
 
 
