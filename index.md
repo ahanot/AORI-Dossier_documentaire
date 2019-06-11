@@ -26,6 +26,6 @@ d.	[Utilités et emplois](bd-les_chat-bots-uti_emplois.md)
 
 e.  [Quel(s) Chat-Bot(s) employer?](be-les_chat-bots-quel_employer?.md)
 
-<h5>3.[Les Chat-Bots en bibliothèques](c-chat-bots_en_biblio.md)</h5>
+<h5> 3. [Les Chat-Bots en bibliothèques](c-chat-bots_en_biblio.md) </h5>
 
 
