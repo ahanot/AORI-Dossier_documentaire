@@ -28,9 +28,6 @@ e.  [Quel(s) Chat-Bot(s) employer?](be-les_chat-bots-quel_employer.md)
 
 
 
-### CHAFII, Jamila. Le machine learning au service de l’intelligence artificielle. Dans : Archimag [en ligne]. 28 septembre 2017. [Consulté le 15 mai 2019]. Disponible à l’adresse : https://www.archimag.com/vie-numerique/2017/09/28/machine-learning-intelligence-artificielle-technologie
-
-Lien dans la référence
 
 ### LE VEN, Éric. Ce qu’il faut attendre de l’intelligence artificielle : l’humain sera-t-il bientôt obsolète pour certains métiers ? Dans : Archimag [en ligne]. 15 mai 2018. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.archimag.com/univers-data/2018/05/15/attendre-intelligence-artificielle-humain-obsolete-metiers
 
@@ -40,6 +37,9 @@ Lien dans la référence
 
 [Définition TEXIER, Bruno. Jean-Marc Ogier: De larges perspectives pour les entreprises](image_folder/aa-ia_bots_chat-bots_voice-bots-def/dossier-intelligence_artificielle-archimag_293-avril%202016.pdf)
 
+### CHAFII, Jamila. Le machine learning au service de l’intelligence artificielle. Dans : Archimag [en ligne]. 28 septembre 2017. [Consulté le 15 mai 2019]. Disponible à l’adresse : https://www.archimag.com/vie-numerique/2017/09/28/machine-learning-intelligence-artificielle-technologie
+
+Lien dans la référence
 
 ### CHRISTENSSON, Per. Bot Definition. Dans : TechTerms - The Tech Terms Computer Dictionary [en ligne]. 24 février 2014. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://techterms.com/definition/bot
 
