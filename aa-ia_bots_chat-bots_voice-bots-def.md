@@ -4,17 +4,11 @@
 
 Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées
 
-###  CANEVET, Frederic. La définition du Voicebot. Dans : ConseilsMarketing.com [en ligne]. 4 mai 2019. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.conseilsmarketing.com/autres-conseils-marketing/la-definition-du-voicebot
 
-Lien dans la référence
 
 ### CHAFII, Jamila. Le machine learning au service de l’intelligence artificielle. Dans : Archimag [en ligne]. 28 septembre 2017. [Consulté le 15 mai 2019]. Disponible à l’adresse : https://www.archimag.com/vie-numerique/2017/09/28/machine-learning-intelligence-artificielle-technologie
 
 Lien dans la référence
-
-### CHRISTENSSON, Per. Bot Definition. Dans : TechTerms - The Tech Terms Computer Dictionary [en ligne]. 24 février 2014. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://techterms.com/definition/bot
-
-[Définition CHRISTENSSON, Per. Bot Definition](image_folder/aa-ia_bots_chat-bots_voice-bots-def/bot_definition.pdf)
 
 ### LE VEN, Éric. Ce qu’il faut attendre de l’intelligence artificielle : l’humain sera-t-il bientôt obsolète pour certains métiers ? Dans : Archimag [en ligne]. 15 mai 2018. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.archimag.com/univers-data/2018/05/15/attendre-intelligence-artificielle-humain-obsolete-metiers
 
@@ -23,6 +17,11 @@ Lien dans la référence
 ### TEXIER, Bruno. Jean-Marc Ogier: « De larges perspectives pour les entreprises ». Archimag: les technologies de l’information. Avril 2016, no 293, p. 19‑20
 
 [Définition TEXIER, Bruno. Jean-Marc Ogier: De larges perspectives pour les entreprises](image_folder/aa-ia_bots_chat-bots_voice-bots-def/dossier-intelligence_artificielle-archimag_293-avril%202016.pdf)
+
+
+### CHRISTENSSON, Per. Bot Definition. Dans : TechTerms - The Tech Terms Computer Dictionary [en ligne]. 24 février 2014. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://techterms.com/definition/bot
+
+[Définition CHRISTENSSON, Per. Bot Definition](image_folder/aa-ia_bots_chat-bots_voice-bots-def/bot_definition.pdf)
 
 ### VEN, Eric Le. Chatbot, la nouvelle expérience conversationnelle. Archimag: les technologies de l’information [en ligne]. Avril 2018, no 313, p. p.30-31. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=bulletin_display&id=6454. 027AR Archives, archivistique
 
@@ -36,4 +35,7 @@ Lien dans la référence
 
 [Définition YELLOWSPRING. Quelle est la différence entre un chatbot, un voicebot, un bot conversationnel, un agent virtuel et un agent conversationnel ?](image_folder/aa-ia_bots_chat-bots_voice-bots-def/difference_entre_chatbot_voicebot_bot_conversationnel_agent_virtuel.pdf)
 
+###  CANEVET, Frederic. La définition du Voicebot. Dans : ConseilsMarketing.com [en ligne]. 4 mai 2019. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.conseilsmarketing.com/autres-conseils-marketing/la-definition-du-voicebot
+
+Lien dans la référence
 
