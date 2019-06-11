@@ -39,7 +39,7 @@ Image pdf ou lien
 
 Image pdf ou lien
 
-### MESGUICH, Véronique. Le chatbot va-t-il ringardiser le site Web ? Dans : Bibliothèques : le Web est à vous [en ligne]. Paris : Editions du Cercle de la librairie, DL 2017, p. 11‑23. Bibliothèques. ISBN 978-2-7654-1521-3. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=notice_display&id=21806
+### MESGUICH, Véronique. Le chatbot va-t-il ringardiser le site Web ? Dans : Bibliothèques : le Web est à vous. Paris : Editions du Cercle de la librairie, DL 2017, p. 11‑23. Bibliothèques. ISBN 978-2-7654-1521-3. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=notice_display&id=21806
 
 A trouver
 
