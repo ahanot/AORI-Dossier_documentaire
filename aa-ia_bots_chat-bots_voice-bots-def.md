@@ -10,7 +10,7 @@ Lien dans la référence
 
 ### CHAFII, Jamila. Le machine learning au service de l’intelligence artificielle. Dans : Archimag [en ligne]. 28 septembre 2017. [Consulté le 15 mai 2019]. Disponible à l’adresse : https://www.archimag.com/vie-numerique/2017/09/28/machine-learning-intelligence-artificielle-technologie
 
-![Définition CHAFII, Jamila. Le machine learning au service de l’intelligence artificielle](image_folder/aa-ia_bots_chat-bots_voice-bots-def/machine_learning_au_service_de_intelligence_artificielle -archimag.pdf)
+Lien dans la référence
 
 ### CHRISTENSSON, Per. Bot Definition. Dans : TechTerms - The Tech Terms Computer Dictionary [en ligne]. 24 février 2014. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://techterms.com/definition/bot
 
@@ -22,7 +22,7 @@ Lien dans la référence
 
 ### TEXIER, Bruno. Jean-Marc Ogier: « De larges perspectives pour les entreprises ». Archimag: les technologies de l’information. Avril 2016, no 293, p. 19‑20
 
-![Définition TEXIER, Bruno. Jean-Marc Ogier: « De larges perspectives pour les entreprises »](image_folder/aa-ia_bots_chat-bots_voice-bots-def/dossier-intelligence_artificielle-archimag_293-avril 2016.pdf)
+![Définition TEXIER, Bruno. Jean-Marc Ogier: De larges perspectives pour les entreprises](image_folder/aa-ia_bots_chat-bots_voice-bots-def/dossier-intelligence_artificielle-archimag_293-avril 2016.pdf)
 
 ### VEN, Eric Le. Chatbot, la nouvelle expérience conversationnelle. Archimag: les technologies de l’information [en ligne]. Avril 2018, no 313, p. p.30-31. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=bulletin_display&id=6454. 027AR Archives, archivistique
 
