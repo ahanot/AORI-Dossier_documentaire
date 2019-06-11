@@ -40,4 +40,4 @@ e.  [Quel(s) Chat-Bot(s) employer?](be-les_chat-bots-quel_employer.md)
 
 ### What is a Chatbot? - Definition from Techopedia. Dans : Techopedia.com [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://www.techopedia.com/definition/16366/chatterbot
 
-[What is a Chatbot? - Definition from Techopedia](image_folder/ba-les_chat-bots-def/what_is_chatbot?-techopedia.pdf)
+Lien dans la référence
