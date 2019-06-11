@@ -26,4 +26,4 @@ Lien dans la référence
 
 ### XU, Anbang, LIU, Zhe, GUO, Yufan, SINHA, Vibha et AKKIRAJU, Rama. A New Chatbot for Customer Service on Social Media. Dans : Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems  - CHI ’17 [en ligne]. Denver, Colorado, USA : ACM Press, 2017, p. 3506‑3510. [Consulté le 28 mai 2019]. ISBN 978-1-4503-4655-9. DOI 10.1145/3025453.3025496
 
-[U, Anbang, LIU, Zhe, GUO, Yufan, SINHA, Vibha et AKKIRAJU, Rama. A New Chatbot for Customer Service on Social Media](image_folder/bd-les_chat-bots-uti_emplois/new_chatbot_for_customer_service .pdf)
+[U, Anbang, LIU, Zhe, GUO, Yufan, SINHA, Vibha et AKKIRAJU, Rama. A New Chatbot for Customer Service on Social Media](image_folder/bd-les_chat-bots-uti_emplois/new_chatbot_for_customer_service.pdf)
