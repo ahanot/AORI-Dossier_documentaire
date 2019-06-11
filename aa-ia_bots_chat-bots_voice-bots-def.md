@@ -22,7 +22,7 @@ Lien dans la référence
 
 ### TEXIER, Bruno. Jean-Marc Ogier: « De larges perspectives pour les entreprises ». Archimag: les technologies de l’information. Avril 2016, no 293, p. 19‑20
 
-[Définition TEXIER, Bruno. Jean-Marc Ogier: De larges perspectives pour les entreprises](image_folder/aa-ia_bots_chat-bots_voice-bots-def/dossier-intelligence_artificielle-archimag_293-avril&nbsp;2016.pdf)
+[Définition TEXIER, Bruno. Jean-Marc Ogier: De larges perspectives pour les entreprises](image_folder/aa-ia_bots_chat-bots_voice-bots-def/dossier-intelligence_artificielle-archimag_293-avril%202016.pdf)
 
 ### VEN, Eric Le. Chatbot, la nouvelle expérience conversationnelle. Archimag: les technologies de l’information [en ligne]. Avril 2018, no 313, p. p.30-31. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=bulletin_display&id=6454. 027AR Archives, archivistique
 
