@@ -10,7 +10,7 @@ Lien dans la référence
 
 ### CHAFII, Jamila. Le machine learning au service de l’intelligence artificielle. Dans : Archimag [en ligne]. 28 septembre 2017. [Consulté le 15 mai 2019]. Disponible à l’adresse : https://www.archimag.com/vie-numerique/2017/09/28/machine-learning-intelligence-artificielle-technologie
 
-Image pdf ou lien
+image_folder/aa-ia_bots_chat-bots_voice-bots-def/bot_definition.pdf
 
 ### CHRISTENSSON, Per. Bot Definition. Dans : TechTerms - The Tech Terms Computer Dictionary [en ligne]. 24 février 2014. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://techterms.com/definition/bot
 
