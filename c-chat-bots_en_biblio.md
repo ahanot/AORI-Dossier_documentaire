@@ -1,7 +1,30 @@
 # Les Chat-Bots en bibliothèques
 
+### Organisation du dossier et des ressources:
 
-Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées
+##### 1. IA, Bots, Chat-Bots et Voice-Bots: <em>Que sont-ils ? En quoi sont-ils différents ?</em>
+
+a. [Définitions](aa-ia_bots_chat-bots_voice-bots-def.md)
+
+b. [Pour aller plus loin](ab-ia_bots_chat-bots_voice-bots-plus_loin.md)
+
+##### 2. Les Chat-Bots
+
+a.	[Définitions](ba-les_chat-bots-def.md)
+
+b.	[Comment cela fonctionne-t-il?](bb-les_chat-bots-comment_ça_fonctionne.md)
+
+c.  [Comment mettre au point un Chat-Bot?](bc-les_chat-bots-comment_creer_chat-bots.md)
+
+d.	[Utilités et emplois](bd-les_chat-bots-uti_emplois.md)
+
+e.  [Quel(s) Chat-Bot(s) employer?](be-les_chat-bots-quel_employer.md)
+
+##### 3. [Les Chat-Bots en bibliothèques](c-chat-bots_en_biblio.md)
+
+# Les Chat-Bots en bibliothèques
+
+<em>En quoi les IA et les Bots ont-ils leur place dans les bibliothèques?</em>
 
 ### ACCART, Jean-Philippe. La médiation à l’heure du numérique. Paris : Editions du Cercle de la librairie, 2016. Bibliothèques. ISBN 978-2-7654-1505-3. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=notice_display&id=21752
 
