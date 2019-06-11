@@ -46,7 +46,7 @@ Lien dans la référence
 
 [Définition CHRISTENSSON, Per. Bot Definition](image_folder/aa-ia_bots_chat-bots_voice-bots-def/bot_definition.pdf)
 
-### VEN, Eric Le. Chatbot, la nouvelle expérience conversationnelle. Archimag: les technologies de l’information [en ligne]. Avril 2018, no 313, p. p.30-31. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=bulletin_display&id=6454. 027AR Archives, archivistique
+### VEN, Eric Le. Chatbot, la nouvelle expérience conversationnelle. Archimag: les technologies de l’information [en ligne]. Avril 2018, no 313, p. p.30-31. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=bulletin_display&id=6454.
 
 [Définition VEN, Eric Le. Chatbot, la nouvelle expérience conversationnelle](image_folder/aa-ia_bots_chat-bots_voice-bots-def/chatbot-nouvelle_experience_conversationelle-archimag_313-avril-2018.pdf)
 
