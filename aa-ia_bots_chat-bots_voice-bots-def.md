@@ -2,7 +2,7 @@
 
 ## Définitions
 
-Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées
+Que sont-ils? À quoi servent-il? Comment les différentier? Ces documents tentent de répondre à ces questions.
 
 
 
