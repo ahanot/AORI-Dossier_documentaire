@@ -8,7 +8,6 @@ Ce dossier-ci a pour sujet les <strong><em>Chat-Bots</em></strong>.
 ### Organisation du dossier et des ressources:
 
 ##### 1. IA, Bots, Chat-Bots et Voice-Bots: <em>Que sont-ils ? En quoi sont-ils différents ?</em>
-<br>
 
 a. [Définitions](aa-ia_bots_chat-bots_voice-bots-def.md)
 
