@@ -28,7 +28,7 @@ e.  [Quel(s) Chat-Bot(s) employer?](be-les_chat-bots-quel_employer.md)
 
 ### A. ABDUL-KADER, Sameera et DR. JOHN, Woods. Survey on Chatbot Design Techniques in Speech Conversation Systems. International Journal of Advanced Computer Science and Applications [en ligne]. 2015, Vol. 6, no 7, p. 72‑80. [Consulté le 28 mai 2019]. DOI 10.14569/IJACSA.2015.060712
 
-[A. ABDUL-KADER, Sameera et DR. JOHN, Woods. Survey on Chatbot Design Techniques in Speech Conversation Systems](image_folder/be-les_chat-bots-quel_employer?/survey_on_chatbot_design .pdf)
+[A. ABDUL-KADER, Sameera et DR. JOHN, Woods. Survey on Chatbot Design Techniques in Speech Conversation Systems](image_folder/be-les_chat-bots-quel_employer?/survey_on_chatbot_design.pdf)
 
 ### RADZIWILL, Nicole M. et BENTON, Morgan C. Evaluating Quality of Chatbots and Intelligent Conversational Agents. arXiv:1704.04579 [cs] [en ligne]. Avril 2017. [Consulté le 28 mai 2019]. Disponible à l’adresse : http://arxiv.org/abs/1704.04579. ArXiv: 1704.04579
 
