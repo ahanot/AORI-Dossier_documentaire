@@ -36,3 +36,4 @@ Lien dans la référence
 
 ![Définition YELLOWSPRING. Quelle est la différence entre un chatbot, un voicebot, un bot conversationnel, un agent virtuel et un agent conversationnel ?](image_folder/aa-ia_bots_chat-bots_voice-bots-def/difference_entre_chatbot_voicebot_bot_conversationnel_agent_virtuel.pdf)
 
+Lien dans la référence
